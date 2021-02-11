@@ -1,0 +1,18 @@
+3 2
+Typ1
+Typ2
+Typ3
+Szkolenie1
+Typ2
+345.000000
+324
+Ajnanusz
+Nazwisko
+76
+Jakies szkolenie
+Typ2
+564.000000
+67
+Jan
+Jakkkowic
+54
